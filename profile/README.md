@@ -1,7 +1,6 @@
-## Приветик! 👋
-
-
 <img src="https://cdn3.iconfinder.com/data/icons/cat-force/256/cat_sing.png" align="right" width="220px"/>  
+
+## Приветик! 👋
 
 ### Краткая сводка
 
